@@ -9,7 +9,9 @@ by the parties.
 
 Start with `Scraping Convention Transcripts.ipynb`. I've created
 some code for you to fill in. Your goal is to just write out
-the entire visible text of the page to its own file. 
+the entire visible text of the page to its own file. Again, 
+each night's transcript should go in its own file, so you'll
+create eight total files. 
 
 I've added some code at the end teaching you about the `textwrap` library,
 which can be useful to write out long strings in a way that makes them
