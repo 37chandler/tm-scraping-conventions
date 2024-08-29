@@ -9,7 +9,11 @@ by the parties.
 
 Start with `Scraping Convention Transcripts.ipynb`. I've created
 some code for you to fill in. Your goal is to just write out
-the entire visible text of the page to its own file. 
+the entire visible text of the page to its own file. Again, 
+each night's transcript should go in its own file, so you'll
+create eight total files. Don't include the text files in the repo. The best 
+practice is not to include data in repositories. I've made this easier by 
+adding `*.txt` into the `.gitignore`. 
 
 I've added some code at the end teaching you about the `textwrap` library,
 which can be useful to write out long strings in a way that makes them
